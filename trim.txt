@@ -1,0 +1,2 @@
+height: bottom bar at 1400
+top bar at 200
